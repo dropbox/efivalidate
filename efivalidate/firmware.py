@@ -1,0 +1,2 @@
+class Firmware:
+    pass
